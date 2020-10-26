@@ -1,3 +1,3 @@
 # panda_ros_common
 
-TODO
+Common messages and services to be used by ROS packages in the organization.
