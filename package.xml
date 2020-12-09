@@ -55,13 +55,11 @@
   <build_depend>geometry_msgs</build_depend>
   <build_depend>sensor_msgs</build_depend>
   <build_depend>control_msgs</build_depend>
-  <build_depend>franka_msgs</build_depend>
   <build_depend>actionlib_msgs</build_depend>
   <build_depend>rospy</build_depend>
 
   <exec_depend>message_runtime</exec_depend>
   <exec_depend>std_msgs</exec_depend>
-  <exec_depend>franka_msgs</exec_depend>
   <exec_depend>geometry_msgs</exec_depend>
   <exec_depend>control_msgs</exec_depend>
   <exec_depend>sensor_msgs</exec_depend>

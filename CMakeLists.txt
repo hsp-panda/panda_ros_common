@@ -11,7 +11,6 @@ find_package(catkin REQUIRED COMPONENTS
         message_generation
         actionlib_msgs
         std_msgs
-        franka_msgs
         geometry_msgs
         sensor_msgs
         control_msgs
@@ -151,7 +150,7 @@ CATKIN_DEPENDS geometry_msgs message_runtime rospy std_msgs
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES panda_ros_common
-#  CATKIN_DEPENDS franka_msgs geometry_msgs message_generation message_runtime rospy std_msgs tf2_ros
+#  CATKIN_DEPENDS geometry_msgs message_generation message_runtime rospy std_msgs tf2_ros
 #  DEPENDS system_lib
 )
 
