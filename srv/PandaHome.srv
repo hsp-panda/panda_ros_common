@@ -1,5 +1,6 @@
 # request
 bool use_joint_values
+bool home_gripper
 ---
 # response
 bool success
