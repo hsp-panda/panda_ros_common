@@ -2,6 +2,7 @@
 float64 width
 bool close_gripper
 bool open_gripper
+bool close_grasp
 ---
 # Reply
 bool success
